@@ -1,0 +1,3 @@
+[submodule "InSeek"]
+	path = InSeek
+	url = git@github.com:itsuki-ALMA/InSeek.git
